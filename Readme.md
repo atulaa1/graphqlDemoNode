@@ -19,4 +19,5 @@ Yều cầu cài đặt npm và nodejs
 Tất cả code demo nằm trong file _server.js_  
 
 4 . References  
-[GraphQL example](https://www.tutorialspoint.com/graphql/graphql_example.htm)
+[GraphQL example](https://www.tutorialspoint.com/graphql/graphql_example.htm)  
+[Grapql or REST](https://dev.to/sadarshannaiynar/graphql-or-rest-what-should-i-use-38mj)

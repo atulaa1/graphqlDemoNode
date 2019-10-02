@@ -20,4 +20,5 @@ Tất cả code demo nằm trong file _server.js_
 
 4 . References  
 [GraphQL example](https://www.tutorialspoint.com/graphql/graphql_example.htm)  
-[Grapql or REST](https://dev.to/sadarshannaiynar/graphql-or-rest-what-should-i-use-38mj)
+[Grapql or REST](https://dev.to/sadarshannaiynar/graphql-or-rest-what-should-i-use-38mj)  
+[When and why to use graphql](https://medium.com/@JeffLombardJr/when-and-why-to-use-graphql-24f6bce4839d)
